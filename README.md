@@ -1,3 +1,4 @@
 # sportsmed.github.io
-code jam 2024
-this is the read me
+Code Jam 2024 
+Team K.DNS
+Khloe Wong, Daniel Tjan, Sam Lee, Noah Young
