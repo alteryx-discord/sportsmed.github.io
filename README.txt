@@ -1,5 +1,7 @@
 # README for Sports Medicine - Team K.DNS #
 
+Team Members: Khloe Wong, Daniel Tjan, Sam Lee, Noah Young
+
 This is the README file for the Sports Medicine - Team K.DNS app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
